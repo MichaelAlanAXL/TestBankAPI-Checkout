@@ -9,4 +9,4 @@ Este repositório fornece uma API simulada para testes de ckeckout de pagamentos
 
 ## Licença
 
-Distribuído sob a licença MIT>
+Distribuído sob a licença MIT
