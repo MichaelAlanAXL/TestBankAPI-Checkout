@@ -1,0 +1,15 @@
+{
+  "name": "testbankapi-checkout",
+  "version": "1.0.0",
+  "description": "Este repositório fornece uma API simulada para testes de ckeckout de pagamentos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
